@@ -40,3 +40,9 @@ Table represents the  sports and activities that iam interested to recomend some
 | BasketBall | BasketBallCourt | 40$, code Dress |
 ---
 
+---
+### Famous Quotes
+>Life is a Journey not a Destination said by *Ralph Waldo Emerson*.
+>
+>To succeed in life, you need two things: Ignorance and Confidence said by *Mark Twain*.
+---
