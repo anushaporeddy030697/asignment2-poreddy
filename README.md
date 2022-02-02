@@ -46,3 +46,25 @@ Table represents the  sports and activities that iam interested to recomend some
 >
 >To succeed in life, you need two things: Ignorance and Confidence said by *Mark Twain*.
 ---
+
+
+---
+### Algebra Algorithm code Fencing
+>In computing, the modulo operation returns the remainder or signed remainder of a division, after one number is divided by another (called the modulus of the operation).
+
+[Link to source code](https://en.wikipedia.org/wiki/Modulo_operation)
+
+```
+int x, y;
+int g = extended_euclidean(a, m, x, y);
+if (g != 1) {
+    cout << "No solution!";
+}
+else {
+    x = (x % m + m) % m;
+    cout << x << endl;
+}
+```
+<ttps://cp-algorithms.com/algebra/module-inverse.html>
+---
+
