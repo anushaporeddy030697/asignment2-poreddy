@@ -27,11 +27,10 @@ The nearest airport is Kansas Airport
 [link of my "AboutMe.md"file](https://github.com/anushaporeddy030697/assignment2-poreddy/blob/main/AboutMe.md) 
 
 ---
+### My recomended sports/Activities
 Table represents the  sports and activities that iam interested to recomend someone.<br>I have shared four sports and activities with details like,<br>
 1. where we can expect them to play in proper manner for better knowing of game.
 2. Amount and personal equipment needed to play the Sports and activities
-### My recomended sports/Activities
-
 | SportsName | SportsLocation | EquipmentMoney |
 |:---        |:---            |:---   |
 | Chess      | ChessBoard(indoor game) | 100$,ChessBoard |
