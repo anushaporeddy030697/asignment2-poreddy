@@ -52,7 +52,7 @@ Table represents the  sports and activities that iam interested to recomend some
 ### Algebra Algorithm code Fencing
 >In computing, the modulo operation returns the remainder or signed remainder of a division, after one number is divided by another (called the modulus of the operation).
 
-[Link to source code](https://en.wikipedia.org/wiki/Modulo_operation)
+<https://en.wikipedia.org/wiki/Modulo_operation>
 
 ```
 int x, y;
