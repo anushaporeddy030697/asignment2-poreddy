@@ -31,6 +31,7 @@ The nearest airport is Kansas Airport
 Table represents the  sports and activities that iam interested to recomend someone.<br>I have shared four sports and activities with details like,<br>
 1. where we can expect them to play in proper manner for better knowing of game.
 2. Amount and personal equipment needed to play the Sports and activities
+
 | SportsName | SportsLocation | EquipmentMoney |
 |:---        |:---            |:---   |
 | Chess      | ChessBoard(indoor game) | 100$,ChessBoard |
@@ -38,3 +39,4 @@ Table represents the  sports and activities that iam interested to recomend some
 | Badminton  | BadmintonCourt | 80$,Eyeprotector |
 | BasketBall | BasketBallCourt | 40$, code Dress |
 ---
+
