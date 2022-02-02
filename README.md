@@ -65,6 +65,7 @@ else {
     cout << x << endl;
 }
 ```
-<ttps://cp-algorithms.com/algebra/module-inverse.html>
+<https://cp-algorithms.com/algebra/module-inverse.html> 
+
 ---
 
